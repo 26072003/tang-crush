@@ -1,4 +1,4 @@
-const CONFIG = { Thế giới của tuii <3 }
+const CONFIG = {
     introTitle: 'Xuân nè !',
     introDesc: `Trái đất vốn lạ thường
     Mà sao cậu cứ đi nhầm đường
@@ -15,5 +15,5 @@ const CONFIG = { Thế giới của tuii <3 }
     mess: 'Tớ biết mà 🥰. Yêu Xuân nhiều nhiều 😘😘',
     messDesc: 'Tối nay để tớ lái tàu qua đón cậu nhé! Công chúa Annabella <3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: https://www.facebook.com/tln.trung/
+    messLink: 'https://www.facebook.com/tln.trung/
 }
